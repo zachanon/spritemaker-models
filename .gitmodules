@@ -1,0 +1,6 @@
+[submodule "dino"]
+	path = dino
+	url = https://github.com/facebookresearch/dino.git
+[submodule "suncet"]
+	path = suncet
+	url = https://github.com/facebookresearch/suncet.git
